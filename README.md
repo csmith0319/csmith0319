@@ -27,11 +27,6 @@ I am currently looking for new opportunities to grow and contribute to innovativ
 
 ### 🌐 Web Applications
 
-- **Pig With A Plan**
-  - Description: A full-scale web application to make tracking and spending money seamless.
-  - [Repository](https://github.com/csmith0319/PigWithAPlan)
-  - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-
 ## 📬 Contact Me
 
 - **Email**: [calebsmith0319@gmail.com](mailto:calebsmith0319@gmail.com)
